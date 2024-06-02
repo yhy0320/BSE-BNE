@@ -1,0 +1,37 @@
+{
+  "kmeans": {
+    "k": 3
+  },
+  "gaussian_mixture": {
+    "k": 3
+  },
+  "mean_shift": {
+    "bandwidth": 0.4
+  },
+  "agglomerative_ward_clustering": {
+    "k": 3,
+    "connectivity": 0.4
+  },
+  "agglomerative_average_clustering": {
+    "k": 3,
+    "connectivity": 0.4
+  },
+  "spectral_clustering": {
+    "k": 3
+  },
+  "dbscan": {
+    "eps": 0.4
+  },
+  "optics": {
+    "min_samples": 7,
+    "xi": 0.05,
+    "min_cluster_size": 0.1
+  },
+  "affinity_propagation": {
+    "damping": 0.9,
+    "preference": -200
+  },
+  "birch": {
+    "k": 3
+  }
+}
