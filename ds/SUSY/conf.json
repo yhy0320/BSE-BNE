@@ -1,0 +1,7 @@
+{
+  "instance": 5000000,
+  "cluster": 2,
+  "dim": 18,
+  "source": "https://archive-beta.ics.uci.edu/dataset/279/susy",
+  "cite": "@misc{misc_susy_279,\n  author       = {Whiteson,Daniel},\n  title        = {{SUSY}},\n  year         = {2014},\n  howpublished = {UCI Machine Learning Repository}\n}"
+}
